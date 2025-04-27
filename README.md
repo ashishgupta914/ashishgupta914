@@ -1,5 +1,5 @@
 ![MasterHead](https://imgs.search.brave.com/0yJ_da6EmOs_EHDv03RL6-IitoAuP-ElxotIQcg0K8w/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA0LzI5Lzk5Lzg4/LzM2MF9GXzQyOTk5/ODgzN19jNXJtcU1z/NDFFSm5wWHFjRk1R/TWpjTEE0MmNEbmFK/Ri5qcGc)
-<h1 align="center">Hi 👋, I'm Bishal Kumar Rauniyar</h1>
+<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
 <h3 align="center">A passionate Data Science Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python & DSA**
 
-- 📫 How to reach me **bishalrauniyar64@gmail.com**
+- 📫 How to reach me **ashish.info914@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
