@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science & DevOps**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bishalkumarrauniyar/](https://www.linkedin.com/in/bishalkumarrauniyar/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/bishalkumarrauniyar/](https://www.linkedin.com/in/ashish-gupta-aa551520b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 - 💬 Ask me about **Python & DSA**
 
